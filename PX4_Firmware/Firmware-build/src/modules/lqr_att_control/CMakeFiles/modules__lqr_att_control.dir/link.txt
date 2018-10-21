@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmodules__lqr_att_control.a  CMakeFiles/modules__lqr_att_control.dir/lqr_att_control.cpp.o CMakeFiles/modules__lqr_att_control.dir/aux_func2.cpp.o
+/usr/bin/ranlib libmodules__lqr_att_control.a

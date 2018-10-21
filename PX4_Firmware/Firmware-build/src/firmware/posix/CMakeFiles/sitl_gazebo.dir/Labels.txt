@@ -1,0 +1,14 @@
+# Target labels
+ sitl_gazebo
+# Source files and their labels
+/home/leonardo/src/PX4_Firmware/Firmware-build/src/firmware/posix/CMakeFiles/sitl_gazebo
+/home/leonardo/src/PX4_Firmware/Firmware-build/src/firmware/posix/CMakeFiles/sitl_gazebo.rule
+/home/leonardo/src/PX4_Firmware/Firmware-build/src/firmware/posix/CMakeFiles/sitl_gazebo-complete.rule
+/home/leonardo/src/PX4_Firmware/Firmware-build/external/Stamp/sitl_gazebo/sitl_gazebo-install.rule
+/home/leonardo/src/PX4_Firmware/Firmware-build/external/Stamp/sitl_gazebo/sitl_gazebo-mkdir.rule
+/home/leonardo/src/PX4_Firmware/Firmware-build/external/Stamp/sitl_gazebo/sitl_gazebo-download.rule
+/home/leonardo/src/PX4_Firmware/Firmware-build/external/Stamp/sitl_gazebo/sitl_gazebo-update.rule
+/home/leonardo/src/PX4_Firmware/Firmware-build/external/Stamp/sitl_gazebo/sitl_gazebo-patch.rule
+/home/leonardo/src/PX4_Firmware/Firmware-build/external/Stamp/sitl_gazebo/sitl_gazebo-configure.rule
+/home/leonardo/src/PX4_Firmware/Firmware-build/external/Stamp/sitl_gazebo/sitl_gazebo-build.rule
+/home/leonardo/src/PX4_Firmware/Firmware-build/external/Stamp/sitl_gazebo/sitl_gazebo-forceconfigure.rule

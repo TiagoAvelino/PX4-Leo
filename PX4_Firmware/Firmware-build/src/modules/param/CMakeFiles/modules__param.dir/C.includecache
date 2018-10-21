@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leonardo/src/PX4_Firmware/Firmware-build/src/modules/param/px4_parameters.c
+px4_parameters.h
+-
+
+/home/leonardo/src/PX4_Firmware/PX4_Firmware/src/modules/systemlib/param/param.h
+stdint.h
+-
+stdbool.h
+-
+sys/types.h
+-
+
+src/modules/param/px4_parameters.h
+stdint.h
+-
+systemlib/param/param.h
+-
+

@@ -1,0 +1,16 @@
+HARDWARE
+mc_att_control: 121498 events, 16424313us elapsed, 135us avg, min 24us max 449us 27.221us rms
+pid_att_control: 129450 events, 5595904us elapsed, 43us avg, min 34us max 393us 14.262us rms
+
+mc_att_control: 18701 events, 2526566us elapsed, 135us avg, min 21us max 421us 30.328us rms
+lqr_att_control: 30914 events, 2071321us elapsed, 67us avg, min 52us max 355us 20.567us rms
+
+SITL
+mc_att_control: 26026 events, 409458us elapsed, 15us avg, min 2us max 1174us 11.553us rms
+pid_att_control: 36330 events, 297672us elapsed, 8us avg, min 2us max 7696us 42.323us rms
+
+mc_att_control: 16814 events, 280291us elapsed, 16us avg, min 2us max 9165us 106.777us rms
+lqr_att_control: 24264 events, 238936us elapsed, 9us avg, min 2us max 6145us 42.807us rms
+
+
+

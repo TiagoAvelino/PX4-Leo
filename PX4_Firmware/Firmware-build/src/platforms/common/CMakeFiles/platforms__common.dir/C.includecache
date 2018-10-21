@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leonardo/src/PX4_Firmware/PX4_Firmware/src/platforms/common/px4_getopt.c
+px4_getopt.h
+-
+stdio.h
+-
+
+/home/leonardo/src/PX4_Firmware/PX4_Firmware/src/platforms/px4_getopt.h
+

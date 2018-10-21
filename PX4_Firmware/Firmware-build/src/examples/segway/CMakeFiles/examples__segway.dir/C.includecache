@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leonardo/src/PX4_Firmware/PX4_Firmware/src/examples/segway/params.c
+systemlib/param/param.h
+-
+
+/home/leonardo/src/PX4_Firmware/PX4_Firmware/src/modules/systemlib/param/param.h
+stdint.h
+-
+stdbool.h
+-
+sys/types.h
+-
+

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmodules__pid_att_control.a  CMakeFiles/modules__pid_att_control.dir/pid_att_control.cpp.o
+/usr/bin/ranlib libmodules__pid_att_control.a

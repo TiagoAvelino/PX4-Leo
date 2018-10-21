@@ -1,0 +1,1 @@
+cmd='/usr/local/bin/cmake;-DCMAKE_INSTALL_PREFIX=/usr;-GCodeBlocks - Unix Makefiles;/home/leonardo/src/PX4_Firmware/PX4_Firmware/Tools/sitl_gazebo'
